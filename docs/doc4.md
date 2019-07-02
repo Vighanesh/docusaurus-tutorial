@@ -1,5 +1,9 @@
-# docusaurus-tutorial
-Test Documentation
+---
+id: doc4
+title: This is Doc 4
+---
+
+I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
 
